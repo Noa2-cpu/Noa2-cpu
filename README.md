@@ -1,16 +1,21 @@
-## Hi there 👋
+## Salut, Je m'appelle Noa 👋
 
-<!--
-**Noa2-cpu/Noa2-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis en BUT informatique à l'IUT Robert Schuman à Illkirch (Strasbourg).
 
-Here are some ideas to get you started:
+# Un peu plus d'informations sur moi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qu'est-ce que j'aime ?
+J'aime coder en C#, en Java et faire des requêtes SQL sur des bases de données pour chercher des données et le C me convient plutôt bien. Je n'ai par contre pas d'expérience en Python donc je ne connais pas.
+
+## Qu'est-ce que j'aimerais découvrir ?
+Un peu de tout, je suis assez curieux et aime découvrir de nouvelle choses.
+
+## Travaux
+Je travaille actuellement sur un projet WinForms, un en java et un en C.
+
+## Centres d'interêts principaux
+ - l'informatique
+ - le sport (football /handball)
+ - les jeux vidéo
+ - la musique
+ - les films/dessins animés
